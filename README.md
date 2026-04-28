@@ -11,17 +11,17 @@ Me apasiona la **arquitectura de software**, el **rendimiento web (Core Web Vita
 
 ## 🛠️ Proyectos Destacados (The Builder Mode)
 
-### 👻 [GhostCue AI](https://github.com/tu-repo-ghostcue)
+### 👻 GhostCue AI
 **Copiloto de ventas en tiempo real para macOS/Windows.**
 - **El reto:** Lograr una latencia ultra-baja para sugerencias en tiempo real durante videollamadas.
 - **Stack:** `Next.js` • `Deepgram` (Audio-to-Text) • `Groq` (LLMs de alta velocidad) • `RAG` para memoria de producto.
 
-### 🏢 [Comuno](https://github.com/tu-repo-comuno)
+### 🏢 Comuno
 **SaaS B2B para la gestión de propiedad horizontal y conjuntos residenciales.**
 - **El reto:** Centralizar procesos administrativos complejos (PQRS, reservas, pagos) en una plataforma intuitiva.
 - **Stack:** `React.js` • `TypeScript` • `Supabase` • `Tailwind CSS`.
 
-### ⚡ [RochCode](https://rochcode.com)
+### ⚡ RochCode
 **Consultoría técnica y desarrollo de software para PYMES.**
 - Implementación de landing pages de alta conversión y automatizaciones de procesos para optimizar la operación de negocios digitales.
 
